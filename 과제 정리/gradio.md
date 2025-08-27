@@ -8,23 +8,24 @@
 
 ### 입력칸
 
-![[18_inputdata.png]]
+
+![[과제 정리/gradio_data/18_inputdata.png]]
 
 ### 모델 선택
 
-![[19_embedding_model_select.png]]
+![[과제 정리/gradio_data/19_embedding_model_select.png]]
 
 ### 출력 문장 개수 및 유사도 임계치 설정
 
-![[20_K_.png]]
+![[과제 정리/gradio_data/20_K_.png]]
 
 ### 파일 업로드 및 전처리, 청킹 옵션
 
-![[21_Setting.png]]
+![[과제 정리/gradio_data/21_Setting.png]]
 
 ### 출력칸
 
-![[22_outputdata.png]]
+![[과제 정리/gradio_data/22_outputdata.png]]
 
 ---
 
@@ -33,64 +34,64 @@
 ### HuggingFace (multilingual-e5-large-instruct)
 
 - 김치 관련 질의  
-    ![[1_huggingface_kimchi.png]]
+    ![[과제 정리/gradio_data/1_huggingface_kimchi.png]]
     
 - 마리오 관련 질의  
-    ![[2_huggingface_mario.png]]
+    ![[과제 정리/gradio_data/2_huggingface_mario.png]]
     
 - K-POP 관련 질의  
-    ![[3_huggingface_kpop.png]]
+    ![[과제 정리/gradio_data/3_huggingface_kpop.png]]
     
 - 문화 관련 질의  
-    ![[4_huggingface_culture.png]]
+    ![[과제 정리/gradio_data/4_huggingface_culture.png]]
     
 
 ### Ollama (nomic-embed-text)
 
 - 김치 관련 질의  
-    ![[5_ollama_kimchi.png]]
+    ![[과제 정리/gradio_data/5_ollama_kimchi.png]]
     
 - 마리오 관련 질의  
-    ![[6_ollama_mario.png]]
+    ![[과제 정리/gradio_data/6_ollama_mario.png]]
     
 - K-POP 관련 질의  
-    ![[7_ollama_kpop.png]]
+    ![[과제 정리/gradio_data/7_ollama_kpop.png]]
     
 - 문화 관련 질의  
-    ![[8_ollama_culture.png]]
+    ![[과제 정리/gradio_data/8_ollama_culture.png]]
     
 
 ### OpenAI (text-embedding-3-small)
 
 - 김치 관련 질의 (에러 발생: **유사도 임계치를 높게 설정해서 결과가 출력되지 않음**)  
-    ![[9_openai_kimchi_error.png]]
+    ![[과제 정리/gradio_data/9_openai_kimchi_error.png]]
     
 - 김치 관련 질의 (재시도 결과)  
-    ![[10_openai_kimchi.png]]
+    ![[과제 정리/gradio_data/10_openai_kimchi.png]]
     
 - 마리오 관련 질의  
-    ![[11_openai_mario.png]]
+    ![[과제 정리/gradio_data/11_openai_mario.png]]
     
 - K-POP 관련 질의  
-    ![[12_openai_kpop.png]]
+    ![[과제 정리/gradio_data/12_openai_kpop.png]]
     
 - 문화 관련 질의  
-    ![[13_openai_culture.png]]
+    ![[과제 정리/gradio_data/13_openai_culture.png]]
     
 
 ### Upstage (solar-embedding-1-large)
 
 - 김치 관련 질의  
-    ![[14_upstage_kimchi.png]]
+    ![[과제 정리/gradio_data/14_upstage_kimchi.png]]
     
 - 마리오 관련 질의  
-    ![[15_upstage_mario.png]]
+    ![[과제 정리/gradio_data/15_upstage_mario.png]]
     
 - K-POP 관련 질의  
-    ![[16_upstage_kpop.png]]
+    ![[과제 정리/gradio_data/16_upstage_kpop.png]]
     
 - 문화 관련 질의  
-    ![[17_upstage_culture.png]]
+    ![[과제 정리/gradio_data/17_upstage_culture.png]]
     
 
 ---
